@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Permissions</string>
+
+    <string name="activate_bluetooth">Activate Bluetooth to allow Ocufii to run and connect to devices?</string>
+    <string name="access_camera">This app needs access to your Camera. Go ahead and grant permission.</string>
+    <string name="activate_gps">Activate Location to allow Ocufii to run and connect to devices?</string>
+    <string name="notification_title">Do you allow Ocufii to send you notifications?</string>
+    <string name="notification_message">Notifications may include alerts, sounds and  icons.\nYou can configure them in settings.</string>
+
+    <string name="label_ok">OK</string>
+    <string name="label_allow">Allow</string>
+    <string name="label_deny">Deny</string>
+    <string name="label_decline">Decline</string>
+    <string name="label_setting">Settings</string>
+    <string name="label_retry">Retry</string>
+
+    <string name="label_yes">Yes</string>
+    <string name="label_no">No</string>
+    <string name="label_cancel">Cancel</string>
+
+    <string name="permission_location">You are required to accept following permissions in order to use this application.\n\n<b>Location (Required for Bluetooth communication</b></string>
+    <string name="permission_bluetooth">You are required to accept following permissions in order to use this application.\n\n<b>Find and connect to nearby devices (Required for Bluetooth communication)</b></string>
+    <string name="permission_denied_camera">Camera access needed. Go to Android settings, tap permissions, and tap allow.</string>
+
+</resources>

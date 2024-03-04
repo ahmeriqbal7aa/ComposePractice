@@ -17,3 +17,8 @@
 - Internet Connectivity
 - Permissions (Single & Multiple)
 - Turned BT and LOC ON/OFF
+
+## ComposeNotification Project
+- Firebase Cloud Messaging Service
+- Notification Channel
+- Navigation by clicking on Notification Banner

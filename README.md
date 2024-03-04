@@ -3,9 +3,9 @@
 ## ComposeElements Project
 - Quote App
 - View Pager
+- Tweets App
 - Chat App UI
 - Pizza App UI
-- Tweets App
 - Shared ViewModel
 - Voyager Navigation
 - Compose Elements
@@ -13,12 +13,12 @@
 
 ## ComposeAnimations Project
 - Alert with TextFields
-- Animation (Slide_In_Out)
 - Internet Connectivity
-- Permissions (Single & Multiple)
+- Animation (Slide_In_Out)
 - Turned BT and LOC ON/OFF
+- Permissions (Single & Multiple)
 
 ## ComposeNotification Project
-- Firebase Cloud Messaging Service
 - Notification Channel
+- Firebase Cloud Messaging Service
 - Navigation by clicking on Notification Banner

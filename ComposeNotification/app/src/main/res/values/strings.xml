@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose FCM</string>
+
+    <string name="default_notification_channel_id">ComposeFCM Alerts</string>
+</resources>
